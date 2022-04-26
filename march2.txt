@@ -1,2 +1,2 @@
-march a
+march python
 
