@@ -1,2 +1,2 @@
-march pyt123
+march magic
 
